@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.25376efc.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pfp.png": "/static/media/pfp.1624e4423caef7e73b9c.png",
+    "static/media/Fareview School.png": "/static/media/Fareview School.51965910711a0280805d.png",
+    "static/media/BridleWood School.png": "/static/media/BridleWood School.99339950c42ec99e39fa.png",
+    "static/media/C.W. Perry School.png": "/static/media/C.W. Perry School.7fdf1118c0229e99eac1.png",
+    "static/media/mini-tools.png": "/static/media/mini-tools.94fa7feca36629c79357.png",
+    "static/media/glitchedgames.png": "/static/media/glitchedgames.b3cb1c0d03bc4fa95808.png",
+    "static/media/texttogo.png": "/static/media/texttogo.aa5eb9126b1b3b5cca74.png",
+    "static/media/picturally.png": "/static/media/picturally.0221a9ba3a7081813a7f.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.25376efc.js.map": "/static/js/main.25376efc.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.25376efc.js"
+  ]
+}

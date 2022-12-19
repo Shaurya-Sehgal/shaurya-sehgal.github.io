@@ -24,6 +24,11 @@ function Contact() {
                   Email address
                 </label>
                 <input
+                  type="hidden"
+                  name="_next"
+                  value="https://shaurya-sehgal.github.io/#"
+                />
+                <input
                   name="email"
                   type="email"
                   className="form-control"

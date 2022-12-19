@@ -15,7 +15,7 @@ function Home() {
                 <h1>Shaurya Sehgal</h1>
                 <p className="fs-3">
                   Hello! I am Shaurya Sehgal, and I'm currently a 12 year old
-                  boy, who is interested in programming.
+                  boy who is interested in programming.
                 </p>
               </div>
             </div>
